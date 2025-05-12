@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate with full stack web-developer to learn and work on some different project.
 - 📫 How to reach me : 44muhammadumair@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Muhammad-Umair-80/Muhammad-Umair-80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
