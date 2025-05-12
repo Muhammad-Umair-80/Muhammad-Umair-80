@@ -24,9 +24,8 @@
 
 ## 📌 Featured Projects
 
-- 🔹 [Library Management System](https://github.com/your-username/Library-Management-System) – built using Visual Basic.
-- 🔹 [Smart Home System (OOP Project)](https://github.com/your-username/SmartHomeSystem) – demonstrates hybrid inheritance and control panels  
-- 🔹 [SecondShelf](https://github.com/your-username/SecondShelf) – web app for book sharing and resale
+- 🔹 [Weather App](https://github.com/Muhammad-Umair-80/Weather-App) – demonstrates how to use onlice API's and how to connect it with your project.  
+- 🔹 [SecondShelf](https://github.com/Muhammad-Umair-80/Booksexchange-website) – web app for book sharing and resale
 - 🔹 [Oop second semester final project](https://github.com/Muhammad-Umair-80/2nd-semester-Final-OOP-project) - work like chatbot which provide iformation about university(PAF_IAST).
 ---
 
