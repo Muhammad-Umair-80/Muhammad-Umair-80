@@ -24,10 +24,10 @@
 
 ## 📌 Featured Projects
 
-- 🔹 [Library Management System](https://github.com/your-username/Library-Management-System) – built using Visual Basic and SQLite  
+- 🔹 [Library Management System](https://github.com/your-username/Library-Management-System) – built using Visual Basic.
 - 🔹 [Smart Home System (OOP Project)](https://github.com/your-username/SmartHomeSystem) – demonstrates hybrid inheritance and control panels  
 - 🔹 [SecondShelf](https://github.com/your-username/SecondShelf) – web app for book sharing and resale
-
+- 🔹 [Oop second semester final project](https://github.com/Muhammad-Umair-80/2nd-semester-Final-OOP-project) - work like chatbot which provide iformation about university(PAF_IAST).
 ---
 
 ## 📫 Let's Connect!
