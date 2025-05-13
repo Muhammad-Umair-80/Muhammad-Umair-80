@@ -40,7 +40,6 @@
 ## 🧩 Competitive Programming
 
 - 🐱‍💻 Practicing data structures and algorithms on [LeetCode](https://leetcode.com/u/MuhammadUmair-80/)  
-*(solving problems regularly to improve logical thinking and coding skills)*
 
 ---
 
